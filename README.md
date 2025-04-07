@@ -1,7 +1,6 @@
 ## Hi there 👋
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincent-sjh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-sjh&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Vincent's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincent-sjh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vincent-sjh/vincent-sjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
